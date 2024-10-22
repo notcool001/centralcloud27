@@ -1,4 +1,9 @@
 python
 java 
 c++
-
+golang
+ruby
+rust
+solidity
+c
+javascript
